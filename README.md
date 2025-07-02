@@ -7,7 +7,6 @@ This is a modern front-end development boilerplate powered by Gulp. It's designe
 *   **Sass Compilation**: Compile SCSS files into CSS with error handling.
 *   **CSS Post-processing**:
     *   **Autoprefixing**: Automatically add vendor prefixes to CSS rules for broader browser support.
-    *   **Media Query Packing**: Combine and sort CSS media queries for optimized output.
     *   **CSS Minification**: Minify CSS files for production, reducing file sizes.
     *   **CSS Comb**: Format CSS/SCSS files based on a predefined configuration (`.csscomb.json`).
 *   **Pug Templating**: Compile Pug (formerly Jade) files into HTML.
