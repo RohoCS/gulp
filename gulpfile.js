@@ -9,7 +9,6 @@ const postcss = require('gulp-postcss')
 const csscomb = require("gulp-csscomb");
 const autoprefixer = require('autoprefixer');
 const mqpacker = require('css-mqpacker');
-// const sortCSSmq = require('sort-css-media-queries')
 const pug = require('gulp-pug')
 
 const plugins = [
